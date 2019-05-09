@@ -1,4 +1,4 @@
-// import '../css/home.css';
+import '../css/home.css';
 
 import React, { Component } from 'react';
 import { render } from 'react-dom';
@@ -8,4 +8,3 @@ render(
     <HomeApp />,
     document.getElementById('home-app')
 );
-
